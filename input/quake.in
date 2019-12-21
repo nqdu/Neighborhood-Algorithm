@@ -1,0 +1,13 @@
+800 20 5          # np,ns,nd
+-30.0 30.0      # boundary1
+-30.0 30.0      # boundary2
+200.0 600.0     # boundary3
+0.0 10.0         # boundary4
+10.0 50.0       # boundary5
+1               # synflag
+0.0             # model1
+0.0             # model2
+500.0           # model3
+0.0             # model4
+20.0            # model5
+0.00            # noiselevel
